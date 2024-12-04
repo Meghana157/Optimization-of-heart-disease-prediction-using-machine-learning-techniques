@@ -42,7 +42,7 @@ This project aims to predict heart disease using machine learning techniques. By
 ---
 
 ## Results
-The finalized model demonstrated the highest accuracy among the tested algorithms and is deployed for real-time predictions.
+The finalized model, Random Forest, achieved the highest accuracy of 90% among the tested algorithms and is deployed for real-time predictions.
 
 ---
 
